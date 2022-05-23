@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"We don't need no stinkin' badges!"
 Use the left arrow to go back!
